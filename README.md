@@ -25,10 +25,9 @@
 
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![typescript](https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![php](https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
+![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![scss](https://img.shields.io/badge/scss-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
 
 ### Frameworks & Other
 
@@ -47,6 +46,8 @@
 ![react](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
 ![vue.js](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![htmx](https://img.shields.io/badge/htmx-3366CC.svg?&style=for-the-badge&logo=htmx&logoColor=white)
+![tailwind css](https://img.shields.io/badge/tailwind%20css-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)
+![scss](https://img.shields.io/badge/scss-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
 ![jquery](https://img.shields.io/badge/jquery-0769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
 
 ![react native](https://img.shields.io/badge/react%20native-152936.svg?&style=for-the-badge&logo=react&logoColor=white)
