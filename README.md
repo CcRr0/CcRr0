@@ -58,6 +58,7 @@
 ![electron](https://img.shields.io/badge/electron-47848F.svg?&style=for-the-badge&logo=electron&logoColor=white)
 ![qt](https://img.shields.io/badge/qt-41CD52.svg?&style=for-the-badge&logo=qt&logoColor=white)
 
+![redis](https://img.shields.io/badge/redis-FF4438.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4F7D9D.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![sqlite](https://img.shields.io/badge/sqlite-003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
 
