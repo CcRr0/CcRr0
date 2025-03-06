@@ -44,8 +44,8 @@
 ![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![fastapi](https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
 
+![dioxus](dioxus.svg)
 ![svelte](https://img.shields.io/badge/svelte-FF3E00.svg?&style=for-the-badge&logo=svelte&logoColor=white)
-![blazor](https://img.shields.io/badge/blazor-512BD4.svg?&style=for-the-badge&logo=blazor&logoColor=white)
 ![react](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
 ![vue.js](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![scss](https://img.shields.io/badge/scss-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
