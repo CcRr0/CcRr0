@@ -1,3 +1,2 @@
-*
-!README.md
-!*.svg
+.idea/
+.DS_Store
