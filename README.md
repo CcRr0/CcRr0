@@ -38,6 +38,7 @@
 ![lambda](https://img.shields.io/badge/lambda-FF9900.svg?&style=for-the-badge&logo=awslambda&logoColor=white)
 ![rds](https://img.shields.io/badge/rds-527FFF.svg?&style=for-the-badge&logo=amazonrds&logoColor=white)
 ![dynamodb](https://img.shields.io/badge/dynamodb-4053D6.svg?&style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![documentdb](https://img.shields.io/badge/documentdb-C925D1.svg?&style=for-the-badge&logo=amazondocumentdb&logoColor=white)
 ![s3](https://img.shields.io/badge/s3-569A31.svg?&style=for-the-badge&logo=amazons3&logoColor=white)
 
 ![bun](https://img.shields.io/badge/bun-000000.svg?&style=for-the-badge&logo=bun&logoColor=white)
@@ -67,9 +68,8 @@
 ![electron](https://img.shields.io/badge/electron-47848F.svg?&style=for-the-badge&logo=electron&logoColor=white)
 ![qt](https://img.shields.io/badge/qt-41CD52.svg?&style=for-the-badge&logo=qt&logoColor=white)
 
-![mysql](https://img.shields.io/badge/mysql-4F7D9D.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![postgresql](https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
-![oracle](https://img.shields.io/badge/oracle-FF0300.svg?&style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxwYXRoIGZpbGw9IndoaXRlIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik03Ljk1NzM1OSwxOC45MTIzNjY0IEM0LjExNjcwMjUyLDE4LjkxMjM2NjQgMSwxNS44MDM0NTggMSwxMS45NjE3MzczIEMxLDguMTIwMDA3NzMgNC4xMTY3MDI1Miw1IDcuOTU3MzU5LDUgTDE2LjA0Mzc5NDgsNSBDMTkuODg1NTE1Niw1IDIzLDguMTIwMDA3NzMgMjMsMTEuOTYxNzM3MyBDMjMsMTUuODAzNDU4IDE5Ljg4NTUxNTYsMTguOTEyMzY2NCAxNi4wNDM3OTQ4LDE4LjkxMjM2NjQgTDcuOTU3MzU5LDE4LjkxMjM2NjQgTDcuOTU3MzU5LDE4LjkxMjM2NjQgWiBNMTUuODYzOTE3NiwxNi40NTg1NDg4IEMxOC4zNTIyMDEsMTYuNDU4NTQ4OCAyMC4zNjc0Mzk3LDE0LjQ0ODg1OCAyMC4zNjc0Mzk3LDExLjk2MTczNzMgQzIwLjM2NzQzOTcsOS40NzQ2MDU5NSAxOC4zNTIyMDEsNy40NTM4MTkzNCAxNS44NjM5MTc2LDcuNDUzODE5MzQgTDguMTM2MDgyNCw3LjQ1MzgxOTM0IEM1LjY0ODk1Mjg1LDcuNDUzODE5MzQgMy42MzI1NTg1NSw5LjQ3NDYwNTk1IDMuNjMyNTU4NTUsMTEuOTYxNzM3MyBDMy42MzI1NTg1NSwxNC40NDg4NTggNS42NDg5NTI4NSwxNi40NTg1NDg4IDguMTM2MDgyNCwxNi40NTg1NDg4IEwxNS44NjM5MTc2LDE2LjQ1ODU0ODggTDE1Ljg2MzkxNzYsMTYuNDU4NTQ4OCBaIi8+Cjwvc3ZnPg==)
-![mssql](assets/mssql.svg)
+![mongodb](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-4F7D9D.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![redis](https://img.shields.io/badge/redis-FF4438.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![sqlite](https://img.shields.io/badge/sqlite-003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
