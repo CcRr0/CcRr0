@@ -24,6 +24,7 @@
 ![f#](https://img.shields.io/badge/f%23-378BBA.svg?&style=for-the-badge&logo=fsharp&logoColor=white)
 ![fortran](https://img.shields.io/badge/fortran-734F96.svg?&style=for-the-badge&logo=fortran&logoColor=white)
 
+![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![typescript](https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![php](https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 
