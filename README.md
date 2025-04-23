@@ -63,12 +63,6 @@
 ![scss](https://img.shields.io/badge/scss-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
 ![jquery](https://img.shields.io/badge/jquery-0769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
 
-![tauri](https://img.shields.io/badge/tauri-24C8D8.svg?&style=for-the-badge&logo=tauri&logoColor=white)
-![react native](https://img.shields.io/badge/react%20native-152936.svg?&style=for-the-badge&logo=react&logoColor=white)
-![flutter](https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white)
-![electron](https://img.shields.io/badge/electron-47848F.svg?&style=for-the-badge&logo=electron&logoColor=white)
-![qt](https://img.shields.io/badge/qt-41CD52.svg?&style=for-the-badge&logo=qt&logoColor=white)
-
 ![postgresql](https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![mongodb](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4F7D9D.svg?&style=for-the-badge&logo=mysql&logoColor=white)
