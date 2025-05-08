@@ -44,6 +44,7 @@
 
 ![bun](https://img.shields.io/badge/bun-000000.svg?&style=for-the-badge&logo=bun&logoColor=white)
 ![deno](https://img.shields.io/badge/deno-70FFAF.svg?&style=for-the-badge&logo=deno&logoColor=black)
+![hotwire](https://img.shields.io/badge/hotwire-FFE801.svg?&style=for-the-badge&logo=hotwire&logoColor=black)
 ![rxjs](https://img.shields.io/badge/rxjs-B7178C.svg?&style=for-the-badge&logo=reactivex&logoColor=white)
 
 ![actix](https://img.shields.io/badge/actix-000000.svg?&style=for-the-badge&logo=actix&logoColor=white)
