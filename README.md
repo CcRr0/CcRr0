@@ -9,7 +9,8 @@
 
 ![rust](https://img.shields.io/badge/rust-000000.svg?&style=for-the-badge&logo=rust&logoColor=white)
 ![zig](https://img.shields.io/badge/zig-F7A41D.svg?&style=for-the-badge&logo=zig&logoColor=white)
-![c++](https://img.shields.io/badge/c/c++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
+![c](assets/c.svg)
+![c++](https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![go](https://img.shields.io/badge/go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)
 ![swift](https://img.shields.io/badge/swift-F05138.svg?&style=for-the-badge&logo=swift&logoColor=white)
 ![kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
