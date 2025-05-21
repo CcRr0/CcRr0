@@ -35,14 +35,6 @@
 ![wasm-bindgen](assets/wasm-bindgen.svg)
 ![emscripten](assets/emscripten.svg)
 
-![ec2](https://img.shields.io/badge/ec2-FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white)
-![ecs](https://img.shields.io/badge/ecs-FF9900.svg?&style=for-the-badge&logo=amazonecs&logoColor=white)
-![lambda](https://img.shields.io/badge/lambda-FF9900.svg?&style=for-the-badge&logo=awslambda&logoColor=white)
-![rds](https://img.shields.io/badge/rds-527FFF.svg?&style=for-the-badge&logo=amazonrds&logoColor=white)
-![dynamodb](https://img.shields.io/badge/dynamodb-4053D6.svg?&style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![documentdb](https://img.shields.io/badge/documentdb-C925D1.svg?&style=for-the-badge&logo=amazondocumentdb&logoColor=white)
-![s3](https://img.shields.io/badge/s3-569A31.svg?&style=for-the-badge&logo=amazons3&logoColor=white)
-
 ![bun](https://img.shields.io/badge/bun-000000.svg?&style=for-the-badge&logo=bun&logoColor=white)
 ![deno](https://img.shields.io/badge/deno-70FFAF.svg?&style=for-the-badge&logo=deno&logoColor=black)
 ![hotwire](https://img.shields.io/badge/hotwire-FFE801.svg?&style=for-the-badge&logo=hotwire&logoColor=black)
