@@ -27,6 +27,7 @@
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![typescript](https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![php](https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
+![scss](https://img.shields.io/badge/scss-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
 
 ### Frameworks & Other
 
@@ -48,21 +49,21 @@
 ![rxjs](https://img.shields.io/badge/rxjs-B7178C.svg?&style=for-the-badge&logo=reactivex&logoColor=white)
 
 ![actix](https://img.shields.io/badge/actix-000000.svg?&style=for-the-badge&logo=actix&logoColor=white)
-![rubyonrails](https://img.shields.io/badge/ruby%20on%20rails-D30001.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![elysia](assets/elysia.svg)
 ![fiber](https://img.shields.io/badge/fiber-EEEEEE.svg?&style=for-the-badge&logo=data:image/svg+xml;base64,PG5zMDpzdmcgeG1sbnM6bnMwPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDgwMCAzMDAiPjxuczA6ZyBmaWxsPSJibGFjayI+PG5zMDpwYXRoIGQ9Im0yMzkuMjUgNjkuNThoMTE3Ljg0bC01Ljc0IDMzLjg5aC03Ni4xMWwtNS43MyAzNS40aDY4LjYxbC01LjczIDM0aC02OC42MWwtMTEuNDcgNjkuMzdoLTQxLjcyeiIgLz48bnMwOnBhdGggZD0ibTM1OSAxMTIuNzRoNDEuMjJsLTIxLjU0IDEyOS40N2gtNDEuMjJ6bTUtMzQuODljMS43LTEwLjg1IDEyLjQxLTE5LjY0IDI0LTE5LjY0czE5Ljg1IDguNzkgMTguNDEgMTkuNjQtMTIuMjIgMTkuNzItMjMuODUgMTkuNzItMjAuMTQtOC45NC0xOC41Ni0xOS43MnoiIC8+PG5zMDpwYXRoIGQ9Im00MjEuNjEgNjkuNThoNDEuMjFsLTEwLjcgNjUuMzNoLjg4YzYuNzQtMTEuODkgMjAuMTUtMjMuODUgNDAuNjMtMjMuODUgMjcuMDYgMCA0OCAyMC44MiA0MC4zNyA2Ni41LTcuMjUgNDQuMDgtMzQuMjIgNjYuNS02Mi44OCA2Ni41LTE5LjU1IDAtMjkuMzMtMTAuODctMzIuMzYtMjIuODRoLTEuNjFsLTMuMzcgMjFoLTQwLjc4em00MC43MSAxNDIuNDJjMTUuMTcgMCAyNi0xMy41NyAyOS4zMy0zNC40N3MtMi43LTM0LjIzLTE4LTM0LjIzYy0xNS4wOSAwLTI2LjEzIDEzLjA3LTI5LjUgMzQuMjMtMy40MSAyMC45MyAzLjA4IDM0LjQ3IDE4LjE3IDM0LjQ3eiIgLz48bnMwOnBhdGggZD0ibTUzOC43OSAxNzhjNi42NS00MC4xMiAzNi4zMi02Ni45MiA3NS4zNS02Ni45MiAzNi43NSAwIDU4LjY3IDIzLjUxIDUxLjU5IDY2LjA4bC0xLjYxIDEwLjI4aC04Ni4yMmwtLjI2IDEuNTJjLTIuNjEgMTYuNDQgNS4xNCAyNiAyMS4yNCAyNiAxMC43MSAwIDIwLTQuNTUgMjQuNy0xMy4yM2wzNy41OSAxLjA5Yy05LjE4IDI1LjQ2LTMzLjg4IDQxLjg5LTY4IDQxLjg5LTQwLjY1LS4wNi02MS4zOC0yNS4zNC01NC4zOC02Ni43MXptOTAuODYtMTQuNWMyLjExLTEzLjIzLTUuODItMjIuNjctMTkuMy0yMi42Ny0xMy4zMiAwLTI1LjEyIDkuODYtMjguMDcgMjIuNjd6IiAvPjxuczA6cGF0aCBkPSJtNjg1LjggMTEyLjc0aDQwbC00IDIzLjZoMS4zNWM3LjY3LTE3LjExIDIwLjM5LTI1LjM0IDM0LjU1LTI1LjM0YTQ5IDQ5IDAgMCAxIDExLjMgMS40bC02LjA3IDM1LjkxYy0zLjc5LTEuNDMtMTAuNzktMi4xOS0xNS45My0yLjE5LTE0LjU4IDAtMjcuMjMgMTAuMzctMjkuOTIgMjUuNzlsLTExLjY0IDcwLjNoLTQxLjIxeiIgLz48L25zMDpnPjxuczA6cGF0aCBkPSJtMjEzLjc3IDExNS40MWgtMTM0LjUxbC0xMC43NiAxNS4yNyAxNDIuNzgtLjA4eiIgZmlsbD0iYmxhY2siIC8+PG5zMDpwYXRoIGQ9Im0yMDkuMDIgMTQ3LjA2aC0xNzQuMDdsLTExLjA3IDE1LjIxIDE4Mi42NS0uMTN6IiBmaWxsPSJibGFjayIgLz48bnMwOnBhdGggZD0ibTIwNC4yNyAxNzguN2gtNzQuMzdsLTEwIDE1LjI3IDgxLjg4LS4wNnoiIGZpbGw9ImJsYWNrIiAvPjwvbnMwOnN2Zz4=)
 ![express](https://img.shields.io/badge/express-EEEEEE.svg?&style=for-the-badge&logo=express&logoColor=black)
-![next.js](https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![nestjs](https://img.shields.io/badge/nestjs-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
 ![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![fastapi](https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
+
+![rubyonrails](https://img.shields.io/badge/ruby%20on%20rails-D30001.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white)
+![next.js](https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ![dioxus](assets/dioxus.svg)
 ![angular](https://img.shields.io/badge/angular-DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)
 ![svelte](https://img.shields.io/badge/svelte-FF3E00.svg?&style=for-the-badge&logo=svelte&logoColor=white)
 ![vue.js](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![react](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
-![scss](https://img.shields.io/badge/scss-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
 ![jquery](https://img.shields.io/badge/jquery-0769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
 
 ![postgresql](https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
