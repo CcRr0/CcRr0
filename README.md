@@ -48,7 +48,7 @@
 ![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![fastapi](https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
 
-![rubyonrails](https://img.shields.io/badge/ruby%20on%20rails-D30001.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white)
+![rails](https://img.shields.io/badge/rails-D30001.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![next.js](https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ![dioxus](assets/dioxus.svg)
