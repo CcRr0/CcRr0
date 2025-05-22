@@ -51,6 +51,7 @@
 
 ![rails](https://img.shields.io/badge/rails-D30001.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![next.js](https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white)
+![django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
 
 ![dioxus](assets/dioxus.svg)
 ![angular](https://img.shields.io/badge/angular-DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)
